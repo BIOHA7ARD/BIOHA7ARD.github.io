@@ -25,6 +25,8 @@ url: "https://anshs.github.io" # the base hostname & protocol for your site, e.g
 github_username:  BIOHA7ARD
 disqus:
   shortname: anshs-jekyll-site
+  timezone: America/California
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
