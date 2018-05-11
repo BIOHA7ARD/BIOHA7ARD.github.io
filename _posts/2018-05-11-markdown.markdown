@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Markdown post"
+date:   2018-05-11 10:46:49 -0700
+categories: jekyll update
+author: BIOHA7ARD
+---
+
+Fortnite's a great game but dying is quite frusturating.
+
+My personal least favorite way to die is death by lack of loot. 
+
+If I have a common pistol and my opponent has a purple scar of course I will lose.
+
+Follow this chest map to win.
+
+fortnite chest map
+
+[alt](https://cdn.gamer-network.net/2018/metabomb/fortnite-chestmap-2.JPG)
