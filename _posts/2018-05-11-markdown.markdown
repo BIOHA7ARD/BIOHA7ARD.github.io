@@ -6,7 +6,7 @@ categories: jekyll update
 author: BIOHA7ARD
 ---
 
- ### Fortnite's a great game but dying is quite frusturating.
+Fortnite's a great game but dying is quite frusturating.
 
 *My personal least favorite way to die is death by lack of loot.* 
 
