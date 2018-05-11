@@ -4,8 +4,19 @@ title: links to sites
 permalink: /links/
 author: Ansh
 ---
-[link-to-github]: https://github.com/
 
-[link-to-taco-bell]: https://www.tacobell.com/
+[github][abc]
 
-[link-to-epicgames]: https://epicgames.com
+[google][bbc]
+
+[taco bell][ccc]
+
+[fortnite][ddd]
+
+[abc]: https://github.com/
+
+[ccc]: https://www.tacobell.com/
+
+[ddd]: https://epicgames.com
+
+[bbc]: https://www.google.com
