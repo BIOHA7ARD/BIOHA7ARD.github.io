@@ -10,4 +10,4 @@ I am an 8th grader in Valley CHristian and this is the project I made in jekyll.
 
 [where i made this][jekyll-docs]
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-docs]: /website/
